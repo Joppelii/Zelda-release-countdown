@@ -1,4 +1,4 @@
-
+// Zelda release countdown - automated testing with GitHub Actions
 const releaseDate = "2026-11-05";
 
 function daysUntilRelease(today, release) {
